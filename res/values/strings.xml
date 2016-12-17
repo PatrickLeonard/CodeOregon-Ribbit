@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Ribbit</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">SIGN IN</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">SIGN IN</string>
+    <string name="action_sign_in_short">SIGN IN</string>
+    <string name="error_invalid_login">Invalid username or password.</string>
+    <string name="error_invalid_sign_up">Invalid username, password, or email.</string>
+    <string name="password_too_short">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="sign_up">Don\'t have an account? Sign up!</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="prompt_email">Email</string>
+    <string name="error_title">OOPS!</string>
+    <string name="menu_logout_label">Logout</string>
+    <string name="empty_inbox_label">No new messages.</string>
+    <string name="empty_friends_label">Add friends to begin!</string>
+    <string name="menu_edit_friends_label">Edit Friends</string>
+    <string name="menu_camera_label">Camera</string>
+    <string name="error_external_storage">There was a problem accessing device external stoage.</string>
+    <string name="general_error_string">Sorry there was an error.</string>
+    <string name="video_size_error">The selected video must be less than 10MB.</string>
+    <string name="file_size_too_large">The selected file is too large. Select a different file.</string>
+    <string name="recipients_activity_label">Recipients</string>
+    <string name="menu_send_icon">Send Icon</string>
+    <string name="error_file_message">There was an error with the file being sent. Please select a different file.</string>
+    <string name="success_message">Message sent!</string>
+    <string name="error_message_sent">There was an error sending your message.</string>
+    <string name="message_icon_content_description">Icon for images or video, little landscape or reel</string>
+    <string name="view_image_message">View Image Message</string>
+    <string name="background_content_description">Ribbit Frog Background Image</string>
+    <string name="login_subtitle">A Treehouse Project, by P. Leonard</string>
+    <string name="cancel_all_caps">CANCEL</string>
+    <string name="sign_up_all_caps_excl">SIGN UP!</string>
+    <string name="button_divider_description">Button Divider</string>
+    <string name="content_description_empty_avatar">Avatar of a user without a picture, a stick figure bust of a person.</string>
+    <string name="content_description_check_mark">A semitransparent check-mark overlay</string>
+    <string name="gravatar_URL">http://www.gravatar.com/avatar/</string>
+    <string name="push_notification_message">You have a new Ribbit message from %s!</string>
+
+
+    <string-array name="camera_choices">
+        <item>Take Photo</item>
+        <item>Take Video</item>
+        <item>Choose Photo</item>
+        <item>Choose Video</item>
+    </string-array>
+
+</resources>
